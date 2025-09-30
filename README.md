@@ -9,18 +9,18 @@ get_size is a simple console utility written in Rust that prints the size of a s
  ## Installation and Run
 
 1. Clone the repository:
-```sh
+```bash
 git clone https://github.com/your-username/get_size.git
 cd get_size
 ```
 
 2. Build the project using the script:
-```sh
+```bash
 ./build.sh
 ```
 
 3. Run the utility:
-```sh
+```bash
 # In release mode
 ./bin/release/get_size <path>
 
